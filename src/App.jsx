@@ -1,3 +1,4 @@
+import { BrowserRouter, Routes, Route, Link } from 'react-router-dom'
 import './App.css'
 
 import Home from "./Pages/Home"
@@ -14,6 +15,7 @@ const App = () => {
         <Link to="/">Home</Link>
         <Link to="/about">About</Link>
         <Link to="/experience">Experience</Link>
+        <Link to="/assignments">Assignments</Link>
       </nav>
 
       <Routes>
