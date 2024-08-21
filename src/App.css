@@ -1,0 +1,107 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+* {
+  background-color: black
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Arial', sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.title-container {
+  text-align: center;
+  color: white;
+}
+
+.title {
+  font-size: 15vw;
+  margin: 0;
+  letter-spacing: 2px;
+  animation: fadeIn 2s ease-in-out;
+}
+
+.subtitle {
+  font-size: 4vw;
+  margin: 10px 0 0;
+  letter-spacing: 1px;
+  animation: fadeIn 4s ease-in-out;
+  text-decoration: none;
+}
+
+/* Animation */
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+.knowledge {
+  display: flex;
+  /* border: solid 1px red; */
+  flex-direction: row;
+  justify-content: space-evenly;
+  color: #59C3C3;
+  font-size: x-large;
+}
+
+.photoshop {
+  color: #00C8FF;
+}
+
+.ue4 {
+  color: #B5B9B5;
+}
+
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: blueviolet;
+}
+
+h2 {
+  text-decoration: underline;
+  text-align: center;
+  color: crimson;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+a {
+  text-decoration: none;
+  color: cornflowerblue;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+a:hover {
+  color: crimson; /* Link color on hover */
+  text-decoration: underline; /* Underline on hover */
+}
+
+.currently {
+  display: flex;
+  color: coral;
+}
+
+ul {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p, .favefood {
+  color: ghostwhite;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.sdat {
+  display: flex;
+  flex-direction: row-reverse;
+  text-align: center;
+  padding-top: 5%;
+}
