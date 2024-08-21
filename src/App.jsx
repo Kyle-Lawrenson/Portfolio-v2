@@ -11,7 +11,7 @@ const App = () => {
   return (
     <>
       <BrowserRouter>
-      <nav>
+      <nav className='navBar'>
         <Link to="/">Home</Link>
         <Link to="/about">About</Link>
         <Link to="/experience">Experience</Link>
