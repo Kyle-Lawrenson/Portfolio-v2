@@ -4,7 +4,7 @@ const About = () => {
         <h1>About me</h1>
       <p>
         This is the page where you will get to know me. I am currently creating
-        a
+        a 
         <a href="https://kyle-lawrenson.github.io/blog/" target="_blank">
           blog.
         </a>
