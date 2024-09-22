@@ -4,8 +4,17 @@ const Assignments = () => {
       <h1>CodeNation Assignments</h1>
       <p>
         Here is all of my assignments I did whilst on the course, most recent at
-        the top;{" "}
+        the top;
       </p>
+      
+      <div>
+        <a
+          href="https://github.com/Kyle-Lawrenson/Final-project"
+          target="_blank"
+        >
+          Final Assignment which is also a group assignment Repository.
+        </a>
+        </div>
 
       <div>
         <a
@@ -17,9 +26,10 @@ const Assignments = () => {
       </div>
 
       <div>
-        <a href="https://github.com/markh-codenation/Cats4Lyfe" target="_blank">
+        <a href="https://github.com/Kyle-Lawrenson/Cats4Lyfe" target="_blank">
           Cats4Lyfe Group Assignment Repository.
         </a>
+        <div></div>
         <a href="https://cats4lyfe.netlify.app/" target="_blank">
           Cats4Lyfe Group Assignment Live Link.
         </a>
@@ -29,6 +39,7 @@ const Assignments = () => {
         <a href="https://github.com/Kyle-Lawrenson/calculator" target="_blank">
           Calculator Assignment Repository.
         </a>
+        <div></div>
         <a href="https://kyle-lawrenson.github.io/calculator/" target="_blank">
           Calculator Assignment Live Link.
         </a>
@@ -38,6 +49,7 @@ const Assignments = () => {
         <a href="https://github.com/Kyle-Lawrenson/cyberpet" target="_blank">
           Cyberpet Group Assignment Repository.
         </a>
+        <div></div>
         <a href="https://kyle-lawrenson.github.io/cyberpet/" target="_blank">
           Cyberpet Group Assignment Live Link.
         </a>
@@ -50,6 +62,7 @@ const Assignments = () => {
         >
           Drumkit Assignment Repository.
         </a>
+        <div></div>
         <a
           href="https://kyle-lawrenson.github.io/DrumkitChallenge/"
           target="_blank"
@@ -80,6 +93,7 @@ const Assignments = () => {
         >
           Website Clone Assignment Repository.
         </a>
+        <div></div>
         <a
           href="https://kyle-lawrenson.github.io/website_clone_assignment/"
           target="_blank"
@@ -95,6 +109,7 @@ const Assignments = () => {
         >
           Nav Bar Assignment Repository.
         </a>
+        <div></div>
         <a
           href="https://kyle-lawrenson.github.io/flexboxNavBarChallenge/"
           target="_blank"

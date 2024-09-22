@@ -2,7 +2,7 @@ import IMAGES from "../assets/images/images";
 
 const Experience = () => {
   return (
-    <div>
+    <div className="text-container">
       <h1>My experience</h1>
 
       <p>In college I learnt how to use the following software; </p>
