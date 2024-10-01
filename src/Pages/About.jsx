@@ -13,13 +13,13 @@ const About = () => {
       <div class="currently">
         <ul>
           <li>
-            I am currently learning how to code with Codenation for the next 12
-            weeks, which I am excited about, from my home in England, Liverpool.
+            I attended a Software Development course with Codenation for 12
+            weeks, dates: 24th june - 13th September, which I was excited about, it was from home in England, Liverpool.
           </li>
           <li>
-            I will be experimenting with html for the time being in my free time
+            I will be experimenting with other coding languages in my free time
           </li>
-          <li>I am interested in the coding behind video games.</li>
+          <li>I am interested in the coding behind video games mainly.</li>
         </ul>
       </div>
     </div>
