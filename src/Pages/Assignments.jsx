@@ -16,14 +16,14 @@ const Assignments = () => {
         </a>
         </div>
         <div></div>
-        <div>
+        {/* <div>
         <a
           // href=""
           // target="_blank"
         >
           Final Assignment which is also a group assignment Repository.
         </a>
-        </div>
+        </div> */}
     
       <div>
         <a
